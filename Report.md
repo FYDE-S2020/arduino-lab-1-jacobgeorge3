@@ -65,7 +65,7 @@ Procedure A, step 1:
 ![Put path to your image here ->](img/capture.PNG)
 
 Procedure A, step 4:
-![Put path to your image here ->](img/dimmer.PNG)
+![Put path to your image here ->](img/Dimming1.PNG)
 
 Procedure B, UART:
 ![Put path to your image here ->](img/UARTCapture.PNG)
