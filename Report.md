@@ -62,13 +62,13 @@ A loop sends the software to the hardware on a timed interval so that the hardwa
 ## Screenshots
 
 Procedure A, step 1:
-![Put path to your image here ->](img/capture.png)
+![Put path to your image here ->](img\capture.png)
 
 Procedure A, step 4:
-![Put path to your image here ->](img/dimmer.png)
+![Put path to your image here ->](img\dimmer.png)
 
 Procedure B, UART:
-![Put path to your image here ->](img/UARTCapture.png)
+![Put path to your image here ->](img\UARTCapture.png)
 
 Procedure B, SPI:
-![Put path to your image here ->](img/SPICapture.png)
+![Put path to your image here ->](img\SPICapture.png)
