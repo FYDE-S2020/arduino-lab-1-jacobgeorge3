@@ -25,7 +25,7 @@ SPIClass *vspi = NULL;
 
 void setup()
 {
-    Serial.begin(115200);
+    Serial.begin(9600);
 
     //initialise two instances of the SPIClass attached to VSPI and HSPI respectively
     vspi = new SPIClass(VSPI);
@@ -48,7 +48,7 @@ void loop()
     //use the SPI buses
     if (Serial.available())
     { // If anything comes in Serial (USB),
-        byte in_S0 = Serial.read();
+        char in_S0 = Serial.read();
         Serial.print(in_S0);
         vspiCommand(in_S0);
     }
